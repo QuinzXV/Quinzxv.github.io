@@ -3,36 +3,36 @@ layout: default
 ---
 
 
-# Eduardo e Mônica
+### Eduardo e Mônica
 Legião Urbana
 
-Quem um dia irá dizer
-Que não existe razão
-Nas coisas feitas pelo coração?
-E quem irá dizer
-Que não existe razão?
+Quem um dia irá dizer<br>
+Que não existe razão<br>
+Nas coisas feitas pelo coração?<br>
+E quem irá dizer<br>
+Que não existe razão?<br>
 
-Eduardo abriu os olhos, mas não quis se levantar
-Ficou deitado e viu que horas eram
-Enquanto Mônica tomava um conhaque
-No outro canto da cidade, como eles disseram
+Eduardo abriu os olhos, mas não quis se levantar<br>
+Ficou deitado e viu que horas eram<br>
+Enquanto Mônica tomava um conhaque<br>
+No outro canto da cidade, como eles disseram<br>
 
-Eduardo e Mônica um dia se encontraram sem querer
-E conversaram muito mesmo pra tentar se conhecer
-Um carinha do cursinho do Eduardo que disse
-Tem uma festa legal, e a gente quer se divertir
+Eduardo e Mônica um dia se encontraram sem querer<br>
+E conversaram muito mesmo pra tentar se conhecer<br>
+Um carinha do cursinho do Eduardo que disse<br>
+Tem uma festa legal, e a gente quer se divertir<br>
 
-Festa estranha, com gente esquisita
-Eu não tô legal, não aguento mais birita
-E a Mônica riu e quis saber um pouco mais
-Sobre o boyzinho que tentava impressionar
-E o Eduardo, meio tonto, só pensava em ir pra casa
-É quase duas, eu vou me ferrar
+Festa estranha, com gente esquisita<br>
+Eu não tô legal, não aguento mais birita<br>
+E a Mônica riu e quis saber um pouco mais<br>
+Sobre o boyzinho que tentava impressionar<br>
+E o Eduardo, meio tonto, só pensava em ir pra casa<br>
+É quase duas, eu vou me ferrar<br>
 
-Eduardo e Mônica trocaram telefone
-Depois telefonaram e decidiram se encontrar
-O Eduardo sugeriu uma lanchonete
-Mas a Mônica queria ver o filme do Godard
+Eduardo e Mônica trocaram telefone<br>
+Depois telefonaram e decidiram se encontrar<br>
+O Eduardo sugeriu uma lanchonete<br>
+Mas a Mônica queria ver o filme do Godard<br>
 
 Se encontraram, então, no Parque da Cidade
 A Mônica de moto e o Eduardo de camelo
