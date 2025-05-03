@@ -1,3 +1,7 @@
 title: Bloguin
 description: Esse é o meu bloguin. 
 theme: minima
+minima:
+#   Minima skin selection. Available skins are:
+#     * classic            Default, light color scheme.
+    * dark               Dark variant of t
