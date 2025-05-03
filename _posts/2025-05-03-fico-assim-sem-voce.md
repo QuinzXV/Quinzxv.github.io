@@ -3,66 +3,59 @@ layout : post
 ---
 ### Fico assim sem você 
 
-Avião sem asa
-Fogueira sem brasa
-Sou eu assim sem você
-Futebol sem bola
-Piu-piu sem Frajola
-Sou eu assim sem você
-Por que é que tem que ser assim?
-Se o meu desejo não tem fim
-Eu te quero a todo instante
-Nem mil auto-falantes
-Vão poder falar por mim
-Amor sem beijinho
-Buchecha sem Claudinho
-Sou eu assim sem você
-Circo sem palhaço
-Namoro sem abraço
-Sou eu assim sem você
-'To louco pra te ver chegar (pra te)
-'To louco pra te ter nas mãos
-Deitar no teu abraço
-Retomar o pedaço
-Que falta no meu coração
-Eu não existo longe de você
-E a solidão é o meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Eu não existo longe de você
-E a solidão é meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Por quê?
-Por quê?
-Neném sem chupeta
-Romeu sem Julieta
-Sou eu assim sem você
-Carro sem estrada
-Queijo sem goiabada
-Sou eu assim sem você
-Por que é que tem que ser assim?
-Se o meu desejo não tem fim
-Eu te quero a todo instante
-Nem mil auto-falantes
-Vão poder falar por mim
-Eu não existo longe de você
-E a solidão é o meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Eu não existo longe de você (você)
-E a solidão é o meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Por que, neném?
-Por quê? Yeah, yeah
-Eu não existo longe de você
-E a solidão é o meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Eu não existo longe de você
-E a solidão é meu pior castigo
-Eu conto as horas pra poder te ver
-Mas o relógio 'tá de mal comigo
-Por quê?
-Por quê?
+Avião sem asa<br>
+Fogueira sem brasa<br>
+Sou eu assim sem você<br>
+
+Futebol sem bola<br>
+Piu-piu sem Frajola<br>
+Sou eu assim sem você<br>
+
+Por que é que tem que ser assim?<br>
+Se o meu desejo não tem fim<br>
+Eu te quero a todo instante<br>
+Nem mil auto-falantes<br>
+Vão poder falar por mim<br>
+
+Amor sem beijinho<br>
+Buchecha sem Claudinho<br>
+Sou eu assim sem você<br>
+
+Circo sem palhaço<br>
+Namoro sem abraço<br>
+Sou eu assim sem você<br>
+
+'To louco pra te ver chegar (pra te)<br>
+'To louco pra te ter nas mãos<br>
+Deitar no teu abraço<br>
+Retomar o pedaço<br>
+Que falta no meu coração<br>
+
+Eu não existo longe de você<br>
+E a solidão é o meu pior castigo<br>
+Eu conto as horas pra poder te ver<br>
+Mas o relógio 'tá de mal comigo<br>
+Por quê?<br>
+Por quê?<br>
+
+Neném sem chupeta<br>
+Romeu sem Julieta<br>
+Sou eu assim sem você<br>
+
+Carro sem estrada<br>
+Queijo sem goiabada<br>
+Sou eu assim sem você<br>
+
+Por que é que tem que ser assim?<br>
+Se o meu desejo não tem fim<br>
+Eu te quero a todo instante<br>
+Nem mil auto-falantes<br>
+Vão poder falar por mim<br>
+
+Eu não existo longe de você<br>
+E a solidão é o meu pior castigo<br>
+Eu conto as horas pra poder te ver<br>
+Mas o relógio 'tá de mal comigo<br>
+Por quê?<br>
+Por quê?<br>
+
