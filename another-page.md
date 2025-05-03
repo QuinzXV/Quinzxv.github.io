@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 E agora como volta? 
