@@ -34,58 +34,58 @@ Depois telefonaram e decidiram se encontrar<br>
 O Eduardo sugeriu uma lanchonete<br>
 Mas a Mônica queria ver o filme do Godard<br>
 
-Se encontraram, então, no Parque da Cidade
-A Mônica de moto e o Eduardo de camelo
-O Eduardo achou estranho e melhor não comentar
-Mas a menina tinha tinta no cabelo
+Se encontraram, então, no Parque da Cidade<br>
+A Mônica de moto e o Eduardo de camelo<br>
+O Eduardo achou estranho e melhor não comentar<br>
+Mas a menina tinha tinta no cabelo<br>
 
-Eduardo e Mônica eram nada parecidos
-Ela era de Leão e ele tinha dezesseis
-Ela fazia Medicina e falava alemão
-E ele ainda nas aulinhas de inglês
+Eduardo e Mônica eram nada parecidos<br>
+Ela era de Leão e ele tinha dezesseis<br>
+Ela fazia Medicina e falava alemão<br>
+E ele ainda nas aulinhas de inglês<br>
 
-Ela gostava do Bandeira e do Bauhaus
-Van Gogh e dos Mutantes, de Caetano e de Rimbaud
-E o Eduardo gostava de novela
-E jogava futebol de botão com seu avô
+Ela gostava do Bandeira e do Bauhaus<br>
+Van Gogh e dos Mutantes, de Caetano e de Rimbaud<br>
+E o Eduardo gostava de novela<br>
+E jogava futebol de botão com seu avô<br>
 
-Ela falava coisas sobre o Planalto Central
-Também magia e meditação
-E o Eduardo ainda tava no esquema
-Escola, cinema, clube, televisão
+Ela falava coisas sobre o Planalto Central<br>
+Também magia e meditação<br>
+E o Eduardo ainda tava no esquema<br>
+Escola, cinema, clube, televisão<br>
 
-E mesmo com tudo diferente, veio mesmo, de repente
-Uma vontade de se ver
-E os dois se encontravam todo dia
-E a vontade crescia, como tinha de ser
+E mesmo com tudo diferente, veio mesmo, de repente<br>
+Uma vontade de se ver<br>
+E os dois se encontravam todo dia<br>
+E a vontade crescia, como tinha de ser<br>
 
-Eduardo e Mônica fizeram natação, fotografia
-Teatro, artesanato, e foram viajar
-A Mônica explicava pro Eduardo
-Coisas sobre o céu, a terra, a água e o ar
+Eduardo e Mônica fizeram natação, fotografia<br>
+Teatro, artesanato, e foram viajar<br>
+A Mônica explicava pro Eduardo<br>
+Coisas sobre o céu, a terra, a água e o ar<br>
 
-Ele aprendeu a beber, deixou o cabelo crescer
-E decidiu trabalhar (não!)
-E ela se formou no mesmo mês
-Que ele passou no vestibular
+Ele aprendeu a beber, deixou o cabelo crescer<br>
+E decidiu trabalhar (não!)<br>
+E ela se formou no mesmo mês<br>
+Que ele passou no vestibular<br>
 
-E os dois comemoraram juntos
-E também brigaram juntos muitas vezes depois
-E todo mundo diz que ele completa ela
-E vice-versa, que nem feijão com arroz
+E os dois comemoraram juntos<br>
+E também brigaram juntos muitas vezes depois<br>
+E todo mundo diz que ele completa ela<br>
+E vice-versa, que nem feijão com arroz<br>
 
-Construíram uma casa há uns dois anos atrás
-Mais ou menos quando os gêmeos vieram
-Batalharam grana, seguraram legal
-A barra mais pesada que tiveram
+Construíram uma casa há uns dois anos atrás<br>
+Mais ou menos quando os gêmeos vieram<br>
+Batalharam grana, seguraram legal<br>
+A barra mais pesada que tiveram<br>
 
-Eduardo e Mônica voltaram pra Brasília
-E a nossa amizade dá saudade no verão
-Só que nessas férias, não vão viajar
-Porque o filhinho do Eduardo tá de recuperação
+Eduardo e Mônica voltaram pra Brasília<br>
+E a nossa amizade dá saudade no verão<br>
+Só que nessas férias, não vão viajar<br>
+Porque o filhinho do Eduardo tá de recuperação<br>
 
-E quem um dia irá dizer
-Que existe razão
-Nas coisas feitas pelo coração?
-E quem irá dizer
-Que não existe razão?
+E quem um dia irá dizer<br>
+Que existe razão<br>
+Nas coisas feitas pelo coração?<br>
+E quem irá dizer<br>
+Que não existe razão?<br>
