@@ -2,7 +2,6 @@
 layout : post
 title : "Fico assim sem você" 
 ---
-### Fico assim sem você 
 
 Avião sem asa<br>
 Fogueira sem brasa<br>
