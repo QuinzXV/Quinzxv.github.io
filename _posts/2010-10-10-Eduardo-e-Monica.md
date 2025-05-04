@@ -1,9 +1,8 @@
 ---
 layout: post
+title : "Eduardo e Mônica" 
 ---
 
-
-### Eduardo e Mônica
 ##### Legião Urbana
 
 Quem um dia irá dizer<br>
