@@ -1,5 +1,6 @@
 ---
 layout : post
+title : "outro título" 
 ---
 ### Fico assim sem você 
 
