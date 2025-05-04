@@ -2,6 +2,9 @@
 layout: default 
 ---
 Isso é um post 
+{%- if post.title -%}
+    <h1 class="page-heading">{{ post.title }}</h1>
+  {%- endif -%}
 {{content}} 
 
 * * * 
