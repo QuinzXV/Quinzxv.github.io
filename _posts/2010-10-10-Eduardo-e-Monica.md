@@ -3,8 +3,6 @@ layout: post
 title : "Eduardo e Mônica" 
 ---
 
-##### Legião Urbana
-
 Quem um dia irá dizer<br>
 Que não existe razão<br>
 Nas coisas feitas pelo coração?<br>
