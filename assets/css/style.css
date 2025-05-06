@@ -1,0 +1,413 @@
+@import url(https://fonts.bunny.net/css?family=fraunces:600,700|suse:400);
+
+:root {
+	--width: 40em;
+	--font-main: Fraunces;
+	--font-secondary: SUSE;
+	--font-scale: 1.2em;
+	--background-color: #FDF6E3;
+	--heading-color: #DC322F;
+	--text-color: #4A6572;
+	--link-color: #2c4341;
+	--visited-color: #a9a9a9;
+	--code-background-color: #eee8d5;
+	--code-color: #222;
+	--blockquote-color: #222;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background-color: #171212;
+		--heading-color: #ea5e41;
+		--text-color: #cebdbd;
+		--link-color: #f0dfd5;
+		--visited-color: #a9a9a9;
+		--code-background-color: #2b2b2b;
+		--code-color: #ddd;
+		--blockquote-color: #ccc;
+	}
+}
+
+body {
+	font-family: var(--font-secondary);
+	font-weight: 400;
+	font-size: var(--font-scale);
+	margin: auto;
+	padding: 0.9375em 1.25em 1.25em;
+	max-width: var(--width);
+	text-align: left;
+	background-color: var(--background-color);
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	line-height: 1em;
+	color: var(--text-color);
+}
+
+header {
+	padding-bottom: 0.3em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: var(--font-main);
+	color: var(--heading-color);
+}
+
+h1 {
+	font-weight: 600;
+	text-align: left;
+}
+
+h2 {
+	font-weight: 600;
+}
+
+h3 {
+	font-weight: 600;
+}
+
+.post main h1 {
+	margin-top: 0.5em;
+	font-size: 1.3em;
+	line-height: 1em;
+	font-weight: 600;
+}
+
+.title h1 {
+	font-size: 1.3em;
+	margin-top: 0.5em;
+	text-align: left;
+	font-weight: 700;
+}
+
+a {
+	color: var(--link-color);
+	cursor: pointer;
+	text-decoration: underline;
+	text-decoration-thickness: 2.2px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+footer a {
+	text-decoration: none;
+	text-align: center;
+}
+
+nav {
+	margin-top: 0.9em;
+	text-align: left;
+	letter-spacing: 0.5px;
+}
+
+nav a {
+	margin-right: 8px;
+	font-size: 1.1em;
+	text-decoration: none;
+	font-family: var(--font-main);
+	font-weight: 700;
+}
+
+strong,
+b {
+	color: var(--heading-color);
+}
+
+button {
+	margin: 0;
+	cursor: pointer;
+}
+
+main {
+	line-height: 1.6;
+}
+
+table {
+	width: 100%;
+}
+
+hr {
+	border: 0;
+	height: 30px;
+	position: relative;
+	margin: 30px 0;
+}
+
+hr:before {
+	content: "⁂";
+	position: absolute;
+	left: 50%;
+	top: 0;
+	transform: translateX(-50%);
+	background: var(--background-color);
+	padding: 0 10px;
+	font-size: 16px;
+	z-index: 1;
+}
+
+hr:after {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 1px;
+	background: #222;
+	top: 50%;
+}
+
+@media (prefers-color-scheme: dark) {
+	hr:after {
+		background: #fff;
+	}
+}
+
+img {
+	max-width: 100%;
+}
+
+figcaption {
+	font-family: var(--font-secondary);
+	text-align: center;
+	font-weight: normal;
+	font-size: 13px;
+	color: #949090;
+}
+
+code {
+	font-family: var(--font-secondary);
+	padding: 2px;
+	background-color: var(--code-background-color);
+	color: var(--code-color);
+	border-radius: 3px;
+}
+
+blockquote {
+	border-left: none;
+	background-color: #f2f2f2;
+	border-radius: 0px;
+	padding: 20px 25px;
+	margin: 25px 0;
+	font-size: 1.05em;
+	text-align: center;
+	font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+	blockquote {
+		background-color: #333 !important;
+		color: #f0f0f0 !important;
+	}
+}
+
+blockquote:before {
+	color: #444 !important;
+}
+
+footer {
+	padding: 25px 0;
+	text-align: center !important;
+}
+
+.title:hover {
+	text-decoration: none;
+}
+
+.title {
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: 0.2em;
+	font-weight: 700;
+}
+
+time {
+	display: block;
+	text-align: left;
+	color: #a9a9a9;
+	padding-top: 0px;
+	font-family: var(--font-secondary);
+}
+
+.inline {
+	width: auto !important;
+}
+
+.highlight,
+.code {
+	padding: 1px 15px;
+	background-color: var(--code-background-color);
+	color: var(--code-color);
+	border-radius: 3px;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	overflow-x: scroll;
+}
+
+/* blog post list */
+
+ul.blog-posts {
+	list-style-type: none;
+	padding: unset;
+}
+
+ul.blog-posts li {
+	display: flex;
+}
+
+ul.blog-posts li span {
+	flex: 0 0 130px;
+}
+
+ul.blog-posts li a:visited {
+	color: var(--visited-color);
+}
+
+ul.blog-posts li a:link {
+	text-decoration: none;
+}
+
+/* For text highlighting only - make this more specific */
+
+p mark,
+h1 mark,
+h2 mark,
+h3 mark,
+h4 mark,
+h5 mark,
+h6 mark,
+li mark,
+a mark,
+span mark {
+	background: linear-gradient(120deg,
+			rgba(255, 127, 127, 0.3) 0%,
+			rgba(255, 150, 150, 0.4) 100%);
+	background-repeat: no-repeat;
+	background-size: 100% 40%;
+	background-position: 0 88%;
+	padding: 0 2px;
+	border-radius: 0;
+	color: inherit;
+}
+
+/* Dark mode version for text highlighting removing the highlight */
+
+@media (prefers-color-scheme: dark) {
+
+	p mark,
+	h1 mark,
+	h2 mark,
+	h3 mark,
+	h4 mark,
+	h5 mark,
+	h6 mark,
+	li mark,
+	a mark,
+	span mark {
+		background: none;
+	}
+}
+
+/* Specific upvote button styling */
+/* Reset */
+button {
+	background: unset;
+	border: unset;
+	cursor: pointer;
+	font-family: --var(font-secondary);
+}
+
+/* Toast button */
+.upvote-button {
+	align-items: center;
+	color: var(--text-color);
+	display: grid !important;
+	grid-template-areas: 'emoji label'
+		'count ...';
+	flex-direction: column;
+	gap: 0 4px;
+}
+
+.upvote-button svg {
+	display: none;
+}
+
+.upvote-button::before {
+	content: '🍞';
+	display: block;
+	font-size: 20px;
+	grid-area: emoji;
+	margin-bottom: 4px;
+	margin-left: 4px;
+}
+
+.upvote-button:hover::before {
+	content: '🍞';
+}
+
+.upvote-button.upvoted:hover::before {
+	content: '🤙';
+}
+
+.upvote-button::after {
+	display: none;
+	grid-area: label;
+}
+
+.upvote-button:hover::after {
+	content: 'Pão?';
+	display: block;
+}
+
+.upvote-button.upvoted:hover::after {
+	content: 'Pão!';
+	display: block;
+}
+
+.upvote-count {
+	color: var(--text-color);
+	font-size: unset;
+	grid-area: count;
+	margin-top: 0 !important;
+}
+
+.upvote-button {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background-color: inherit;
+	color: inherit;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.upvote-button.upvoted {
+	color: salmon;
+}
+
+.upvote-count {
+	margin-top: -3px;
+}
+
+.upvote-button {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background-color: inherit;
+	color: inherit;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.upvote-button.upvoted {
+	color: salmon;
+}
+
+.upvote-count {
+	margin-top: -3px;
+}
