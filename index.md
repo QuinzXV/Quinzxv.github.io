@@ -6,7 +6,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}"><h4>{{ post.title }}</h3></a>
+      <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
