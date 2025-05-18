@@ -7,6 +7,7 @@ Para realinhar as órbitas dos planetas<br>
 Derrubando com assombro exemplar<br>
 O que os astrônomos diriam se tratar<br>
 De um outro cometa<br>
+
 Quando o segundo sol chegar<br>
 Para realinhar as órbitas dos planetas<br>
 Derrubando com assombro exemplar<br>
