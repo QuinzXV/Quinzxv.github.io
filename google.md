@@ -1,6 +1,5 @@
 ---
 layout: none
-permalink: /google/
 ---
 
 <!DOCTYPE html>
