@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: post
 permalink: /add-contact/
 title: Add Luis to Contacts
 ---
